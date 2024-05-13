@@ -199,7 +199,7 @@ Since NVIDIA can't comply to any naming conventions, they decided to make some 6
 
 ### **Pascal Series (GTX 10xx)**
 
-#### Highest Supported OS: High Sierra (10.13.6)
+#### Highest Supported OS: Sonoma (14)
 
 #### Initial Supported OS: Sierra (10.12.4)
 
